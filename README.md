@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akashrj090@gmail.com**
 
-- interests **stock market and option trading (got third place in a local hackathon called 'wolf of wallstreet' basesd on stock analysis**
+- interests **stock market and option trading (got third place in a local hackathon called 'wolf of wallstreet' based on stock analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
