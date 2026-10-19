@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm Akash R J</h1>
-<h3 align="center">A Student from INDIA</h3>
+# Akash R Jadhav
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashrdj&label=Profile%20views&color=0e75b6&style=flat" alt="akashrdj" /> </p>
+**Software engineer** · B.Tech CSE, PES University (2026) · Bengaluru, India
 
-- 🔭 I’m currently working on **cars.com**
+I build systems software and backend tooling in Java and Python: telemetry pipelines, shared-memory data paths, packet-level networking, and the test automation around them. I also have applied ML research experience (federated learning).
 
-- 🌱 I’m currently learning **java,pytorch,AWS**
+[LinkedIn](https://www.linkedin.com/in/akashrjadhav/) · [Email](mailto:akashrj090@gmail.com)
 
-- 📫 How to reach me **akashrj090@gmail.com**
+---
 
-- interests **stock market and option trading (got third place in a local hackathon called 'wolf of wallstreet' based on stock analysis**
+## What I've worked on
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/akashrj81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashrj81" height="30" width="40" /></a>
-</p>
+**Developer Intern, CitiusTech (client: Evident Microscopy)** · May–Aug 2026
+- Designed an end-to-end observability pipeline in Java: OpenTelemetry Java Agent, Collector, Prometheus, Loki, Grafana.
+- Built a shared-memory ring buffer (`MappedByteBuffer`) with custom OTLP-compliant reader/writer components, covered by JUnit tests.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+**Research Intern, PESU C-IoT Research Lab** · Jan–Mar 2026
+- Federated learning (PyTorch, Flower, Ray) across 6 regional nodes to forecast pest outbreak risk, trained on 1,886 weekly records without centralizing raw data.
+- FedPer (personalized heads) reached 81.05% test accuracy vs 77.54% for FedProx under Non-IID clients.
+
+## Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| **[Network Security Validation Pipeline](https://github.com/akashrdj/REPO-NAME)** | Python, Scapy, Docker, pytest, Jenkins, SQLite | Simulates and detects ARP spoofing, MAC flooding, and rogue DHCP across a 3-container Docker network. Multi-signal weighted detection; Jenkins CI via GitHub webhooks runs regression tests on every push. |
+| **[Hybrid Federated & Centralized Deepfake Detection](https://github.com/akashrdj/REPO-NAME)** | Python, TensorFlow/Keras, PyTorch, FastAPI, ONNX | Privacy-preserving deepfake detection web app (XceptionNet, EfficientNet), 82% accuracy, ONNX for local inference. |
+| **[SMARTBUS Reservation System](https://github.com/akashrdj/REPO-NAME)** | Python, Streamlit, MySQL | Booking platform on a 12+ table normalized schema; triggers and CASCADE constraints for seat allocation; concurrent-booking handling to prevent seat conflicts. |
+
+## Stack
+
+![Java](https://skillicons.dev/icons?i=java,cpp,js,py&theme=dark)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,react&theme=dark)
+![Data](https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark)
+![DevOps](https://skillicons.dev/icons?i=docker,git,jenkins,prometheus,grafana&theme=dark)
+![ML](https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark)
+
+**Also:** OpenTelemetry · Scapy · JUnit · pytest · REST APIs · Flower · Ray
+
+## Certifications
+
+- Oracle Cloud Infrastructure 2025 Multicloud Architect Professional
+- Oracle Cloud Infrastructure 2025 Foundations Associate
+
+## Beyond code
+
+3rd place, "Wolf of Wall Street" hackathon (stock analysis).
+
+---
+
+Open to software engineering roles (backend / systems). Best reached by email or LinkedIn.
